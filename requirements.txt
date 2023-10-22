@@ -1,0 +1,7 @@
+Markdown==3.5
+PyPDF2
+python-docx
+openai
+python-dotenv==1.0.0
+--extra-index-url https://D67C-F017-FE82-DDD5@download.prodi.gy 
+prodigy
