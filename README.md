@@ -10,7 +10,7 @@ GPT Annotator is a tool that utilizes GPT models to annotate textual data for Na
 
 - Extract text from multiple file formats.
 - Tokenize and process sentences using NLTK.
-- Generate annotated data suitable for NER tasks.
+- Generate annotated data suitable for NER tasks. Currently output as JSONL
 
 ## Requirements
 
@@ -57,4 +57,3 @@ This project is licensed under the MIT License. See [`LICENSE.md`](LICENSE.md) f
 
 ---
 
-Feel free to modify this template to better suit your project's specific needs. Adding sections like FAQs, Acknowledgments, or a Roadmap can further enrich your README.
